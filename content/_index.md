@@ -16,7 +16,8 @@ sections:
       text: |
         <br>
         
-        The **Zhang Research Group** ...
+        The **Zhang research group** focuses on developing new capabilities for more accurate, more sensitive, and higher throughput measurement of biomolecules, and the clinical application of proteomics, lipidomics, and metabolomics for comprehensive identification of disease biomarkers, and systems biological understanding of the pathogenic mechanism underlying the complex human diseases. Our research could lead to clinical assays for early diagnosis of human diseases, and effective intervention and prevention strategies for better human health. See "Research" for more information.
+
   
   - block: collection
     id: news
@@ -61,8 +62,8 @@ sections:
   - block: markdown
     id: research
     content:
-      title: Research Topics
-      text: asdfasdfasfdasdfasdf
+      title: Research
+      text: asdfasdfa
 
   - block: markdown
     id: apply

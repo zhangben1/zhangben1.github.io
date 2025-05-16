@@ -19,7 +19,8 @@ main:
   - name: Publications
     url: https://scholar.google.com/citations?user=v6YV1EcAAAAJ&hl=en
     weight: 50
-    external: true
+    params:
+      external: true
   - name: Apply
     url: /#apply
     weight: 60

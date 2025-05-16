@@ -1,6 +1,11 @@
-<html>
-<head>
-<meta http-equiv="refresh" content="0; url=https://www.google.com/">
-</head>
-<body></body>
-</html>
+---
+title: "Redirecting..."
+draft: false
+type: "page"
+---
+
+<script>
+  window.location.href = "https://research.nvidia.com/labs/toronto-ai/";
+</script>
+
+If you are not redirected, <a href="https://research.nvidia.com/labs/toronto-ai/">click here</a>.

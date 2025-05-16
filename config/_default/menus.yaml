@@ -17,10 +17,8 @@ main:
     url: /#research
     weight: 40
   - name: Publications
-    url: "https://scholar.google.com/citations?user=v6YV1EcAAAAJ&hl=en"
+    url: publications
     weight: 50
-    params:
-      external: true
   - name: Apply
     url: /#apply
     weight: 60

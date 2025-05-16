@@ -17,7 +17,7 @@ main:
     url: /#research
     weight: 40
   - name: Publications
-    link: https://scholar.google.com/citations?user=v6YV1EcAAAAJ&hl=en
+    link: publications
     weight: 50
   - name: Apply
     url: /#apply

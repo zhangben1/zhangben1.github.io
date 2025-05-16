@@ -5,7 +5,9 @@ type: "page"
 ---
 
 <script>
-  window.location.href = "https://research.nvidia.com/labs/toronto-ai/";
+  window.onload = function() {
+    window.open("https://scholar.google.com/citations?user=v6YV1EcAAAAJ&hl=en", "_blank");
+  };
 </script>
 
-If you are not redirected, <a href="https://research.nvidia.com/labs/toronto-ai/">click here</a>.
+<p>If a new tab didn’t open automatically, <a href="https://scholar.google.com/citations?user=v6YV1EcAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">click here</a>.</p>

@@ -11,17 +11,17 @@ main:
     url: /#news
     weight: 20
   - name: Team
-    url: people
+    url: /#people
     weight: 30
   - name: Research
-    url: event
+    url: /#research
     weight: 40
   - name: Publications
     url: publication
     weight: 50
   - name: Apply
-    url: tour
+    url: /#apply
     weight: 60
   - name: Contact
-    url: contact
+    url: /#contact
     weight: 70

@@ -61,7 +61,15 @@ sections:
     id: research
     content:
       title: Research
-      text: asdfasdfa
+      text: 
+      <div style="overflow: auto;">
+        <div style="float: left; width: 65%;">
+          <p>This is a summary of our research projects. We focus on cutting-edge AI and robotics.</p>
+        </div>
+        <div style="float: right; width: 30%;">
+          <img src="/media/welcome.jpg" alt="Research Image" style="width: 100%; border-radius: 8px;">
+        </div>
+      </div>
 
   - block: markdown
     id: apply
